@@ -1,0 +1,73 @@
+{
+  "code": "GHU",
+  "title": "SMASH GHU",
+  "school": "광주보건대",
+  "fullName": "광주보건대학교",
+  "campusName": "광주보건대학교",
+  "tagline": "광주보건대를 부셔 (시험기간 스트레스 해소)",
+  "description": "광주보건대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 광주보건대학교 3D 화면과 SMASH GHU 제목",
+  "url": "https://hong-iron.github.io/SMASH-GHU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "relation",
+    "id": 13605743
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.1918099,
+        126.8465789
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 9번 건물 북쪽 이웃 땅(650-17 대지)에 1989년 단독주택으로 등록된 건물이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        35.1907988,
+        126.8463139
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 뒷산 숲 한가운데로 사진에 나무만 보이고 건축물대장 기록도 층수 말고는 비어 있어서 실제 건물이 없다."
+    },
+    {
+      "at": [
+        35.191317,
+        126.8456522
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 11번 건물 서쪽 주차장 자리로 사진에 차와 나무만 보이고 건축물대장 기록도 비어 있어서 실제 건물이 없다."
+    },
+    {
+      "at": [
+        35.1912586,
+        126.845595
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 11번 건물 서쪽 주차장 옆 자리로 사진에 차와 나무만 보이고 건축물대장 기록도 비어 있어서 실제 건물이 없다."
+    }
+  ],
+  "look": {
+    "광주보건대학": {
+      "style": "brick",
+      "wall": "#6e5a4e",
+      "glass": "#3b3d3c",
+      "frame": "#c9cbca"
+    },
+    "광주보건대학교 사무엘생활관": {
+      "style": "dorm",
+      "wall": "#66574b",
+      "glass": "#3e4446",
+      "frame": "#a3a8aa"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
